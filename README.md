@@ -3,6 +3,8 @@ This repo contains information used in an advanced class on extracting data from
 
 Our objective was to convert three files from PDFs into machine-readable data using two Python packages, and clean and analyze that data in pandas.
 
+[The introductory level of this class can be found here](https://github.com/JoeYerardi/data-plus-narrative-2019-data-from-documents).
+
 ## Required Software
 ### [Python](https://www.python.org/)
 ### [pandas](https://pandas.pydata.org/)
